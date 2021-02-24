@@ -1,0 +1,6 @@
+{
+    "amqp": "amqp://guest:guest@localhost",
+    "dest_addr": "8.8.8.8",
+    "count": 5,
+    "timeout": 0.1
+}
